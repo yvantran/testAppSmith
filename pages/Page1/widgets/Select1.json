@@ -35,7 +35,7 @@
     ],
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 104,
+    "originalBottomRow": 90,
     "needsErrorInfo": false,
     "mobileBottomRow": 70,
     "widgetName": "Select1",
@@ -63,7 +63,7 @@
     "mobileTopRow": 63,
     "optionLabel": "label",
     "responsiveBehavior": "fill",
-    "originalTopRow": 82,
+    "originalTopRow": 68,
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
     "minDynamicHeight": 4

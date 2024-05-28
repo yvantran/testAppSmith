@@ -106,11 +106,11 @@
     "mobileTopRow": 159,
     "responsiveBehavior": "fill",
     "yAxisName": "Revenue($)",
-    "originalTopRow": 159,
+    "originalTopRow": 145,
     "chartName": "Sales Report",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "xAxisName": "Product Line",
-    "originalBottomRow": 191,
+    "originalBottomRow": 177,
     "chartType": "COLUMN_CHART"
 }
